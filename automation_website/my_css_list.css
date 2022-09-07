@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://www.cheatsheet.com/wp-content/uploads/2016/03/The-Office-NBC.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+h1 {
+    size: 2000rem;
+    
+}
