@@ -72,6 +72,12 @@ npm run cypress:open
 npm run cypress:run
 ```
 
+6. To run specific tests, use the following command:
+
+```bash
+cypress run –record --tag @1
+```
+
 The test results will be displayed in the terminal or the Cypress Test Runner, depending on the mode of execution.
 
 ## Project Structure
@@ -91,8 +97,3 @@ The project structure is organized as follows:
 - `fixtures`: Contains fixture files used in tests (e.g., test data).
 - `integration`: Contains test files that house the actual tests.
 - `plugins`: Contains Cypress plugin
-
-**Running Specific Tests**
-```bash
-cypress run –record --tag @1
-```
