@@ -43,7 +43,7 @@ it('asserting the subscribe to our newsletter button exists', () => {
 })
 
 // clicking the subscribe to email link
-it('clicking the subscribe to our newsleter button', () => {
+it('clicking the subscribe to our newsletter button', () => {
     // tag: 7
     cy.get('.footer-form > .border').click()
 })
