@@ -1,6 +1,6 @@
 # Cypress End-to-End Automation
 
-![Cypress Logo](https://www.cypress.io/static/cypress-io-logo-social-share-8fb8a1db3cdc2d2d0b5f5f5fb076b367.png)
+![Cypress Logo](https://www.cypress.io/images/layouts/navbar-brand.svg)
 
 This repository contains an end-to-end automation suite built with Cypress for testing the Cypress website. It showcases my Cypress skills and demonstrates how Cypress can be used to write reliable and efficient automated tests.
 
