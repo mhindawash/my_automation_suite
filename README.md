@@ -91,3 +91,8 @@ The project structure is organized as follows:
 - `fixtures`: Contains fixture files used in tests (e.g., test data).
 - `integration`: Contains test files that house the actual tests.
 - `plugins`: Contains Cypress plugin
+
+**Running Specific Tests**
+```bash
+cypress run –record --tag @1
+```
